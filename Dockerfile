@@ -1,3 +1,7 @@
+# KI-Generiertes Skript
+# Von einer Maschine erstellt!
+# Nicht von Menschen!
+
 # Nginx holen
 FROM nginx:latest
 
